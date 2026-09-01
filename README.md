@@ -1,3 +1,7 @@
+## Live Demo
+
+https://drillsight-prototype.crafty-chord-3384.chatgpt.site
+
 # DrillSight Prototype
 
 DrillSight is an interactive exploration sample triage demo built as an independent portfolio project by Reinaldo Pang. It accepts a structured CSV, validates the data in-browser, calculates normalized assay signals, and ranks intervals for review.
